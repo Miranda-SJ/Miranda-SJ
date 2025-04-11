@@ -3,7 +3,7 @@
 Sou uma entusiasta da tecnologia, sempre curiosa e em constante evolução.  
 Atualmente, estudo e desenvolvo projetos nas seguintes áreas:
 
-- **Python** – Minha linguagem favorita para automações e IA  
+- **Python**   
 - **SQL** 
 - **C#** 
 - **Inteligência Artificial / IoT** 
