@@ -58,6 +58,8 @@
 | [![Cybersecurity Essentials](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/ee97f726-9c36-41a8-8aa9-ffc3a58a8130/public_url) | Cisco       |
 | [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/1b4d9f0f-a39d-493c-b807-53f0df015c0a/public_url) | Cisco       |
 | [![Networking Essentials](https://img.shields.io/badge/Networking%20Essentials-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/79e81285-66a3-45d8-9fb5-cbb57584d837/public_url) | Cisco       |
+| [![Introdução à Automação](https://img.shields.io/badge/Introdução%20à%20Automação-UiPath-blue?style=flat-square)](https://academy.uipath.com/courses/introdu%C3%A7%C3%A3o-%C3%A0-automa%C3%A7%C3%A3o) | UiPath Academy |
+
 
 
 
