@@ -10,13 +10,16 @@
   I'm always learning and building. Most of my projects reflect my learning journey—whether it's organizing my studies, automating routines, or experimenting with new tools.<br><br>
   Feel free to explore my repositories to see what I’ve been working on.<br><br>
 
-  
-  ---
+
   <br>
   Open to conversations, collaborations, or just sharing ideas about tech and creativity.
 </h4>
 
 ###
+
+
+  
+  ---
 
 
 
@@ -46,6 +49,7 @@
 
 ###
 
+---
 
 ### 📜 Certifications
 
@@ -60,6 +64,7 @@
 
 ###
 
+---
 
 ### 🔗 Connect with me
 
