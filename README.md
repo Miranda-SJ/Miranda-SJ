@@ -53,7 +53,7 @@
 
 ### 📜 Certifications
 
-| Certificação                                                                                               | Organização Emissora |
+| Certification                                                                                               | Issuing Authority |
 |------------------------------------------------------------------------------------------------------------|----------------------|
 | [![Cybersecurity Essentials](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/ee97f726-9c36-41a8-8aa9-ffc3a58a8130/public_url) | Cisco       |
 | [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/1b4d9f0f-a39d-493c-b807-53f0df015c0a/public_url) | Cisco       |
