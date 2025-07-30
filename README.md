@@ -77,7 +77,7 @@ Feel free to explore my repositories and follow my progress. I'm always open to 
 | [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/1b4d9f0f-a39d-493c-b807-53f0df015c0a/public_url) | Cisco       |
 | [![Networking Essentials](https://img.shields.io/badge/Networking%20Essentials-Credly-blueviolet?style=flat-square)](https://www.credly.com/badges/79e81285-66a3-45d8-9fb5-cbb57584d837/public_url) | Cisco       |
 | [![Introduction to Automation](https://img.shields.io/badge/Introduction%20to%20Automation-UiPath-orange?style=flat-square)](https://academy.uipath.com/courses/introdu%C3%A7%C3%A3o-%C3%A0-automa%C3%A7%C3%A3o) | UiPath Academy |
-| [![Introduction to Generative AI](https://img.shields.io/badge/Introduction%20to%20Generative%20AI-Google%20Cloud-%234285F4?style=flat-square)](https://www.cloudskillsboost.google/course_templates/536) | Google Cloud Skills Boost |
+| [![Introduction to Generative AI](https://img.shields.io/badge/Introduction%20to%20Generative%20AI-Google%20Cloud-blue?style=flat-square)](https://www.cloudskillsboost.google/public_profiles/1529a014-4a6b-4fe9-9cd8-788f09233b25/badges/16918585) | Google |
 
 
 
