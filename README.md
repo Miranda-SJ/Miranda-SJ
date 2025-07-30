@@ -1,21 +1,22 @@
-<h4 align="left">
-  Hi, I'm J<br><br>
-  
-  I'm an Information Technology student with a passion for turning ideas into real solutions. I explore different areas within tech, building projects that involve:<br><br>
-  
-  - Task automation (RPA, Python scripts, bots, and more)<br>
-  - API development using Flask and database integration<br>
-  - Web development with HTML, CSS, React and JavaScript, always with a creative touch<br>
-  - A strong interest in AI, digital productivity, and solving everyday challenges with tech<br><br>
-  I'm always learning and building. Most of my projects reflect my learning journey—whether it's organizing my studies, automating routines, or experimenting with new tools.<br><br>
-  Feel free to explore my repositories to see what I’ve been working on.<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=435&height=55&color=ADD8E6&lines=Hi%2C+I'm+J;Welcome+to+my+GitHub!" alt="Typing animation" />
+</p>
 
+I'm a curious and passionate Information Technology student, always exploring how to turn ideas into meaningful solutions. I build and experiment with tech across different areas, including:<br><br>
 
-  <br>
-  Open to conversations, collaborations, or just sharing ideas about tech and creativity.
+- Task automation (RPA, Python scripts, bots)<br>
+- API development with Flask and database integration<br>
+- Web development using HTML, CSS, JavaScript, and React — always adding a creative twist<br>
+- A strong interest in AI, digital productivity, and solving everyday challenges with technology<br><br>
+
+I'm constantly learning and creating. Most of my projects reflect this journey whether I'm organizing my studies, automating routines, or trying out new tools and frameworks.<br><br>
+
+Feel free to explore my repositories and follow my progress. I'm always open to connecting, collaborating, or exchanging ideas about tech and creativity.
+
 </h4>
 
 ###
+
 
 
   
@@ -23,10 +24,35 @@
 
 
 
+
 ### 🧠 Technologies & Tools
 
 
 <div align="left">
+  <!-- Backend / Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+
+  <br /><br />
+
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
@@ -34,20 +60,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
 </div>
 
 
 ###
 
+
 ---
+
 
 ### 📜 Certifications
 
@@ -66,7 +86,9 @@
 
 ###
 
+
 ---
+
 
 ### 🔗 Connect with me
 
