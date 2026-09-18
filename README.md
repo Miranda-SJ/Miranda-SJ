@@ -40,11 +40,6 @@ $ cat interests.txt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miranda-SJ&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miranda-SJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Miranda-SJ&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
