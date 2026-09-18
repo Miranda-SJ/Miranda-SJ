@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=ADD8E6&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+J+%F0%9F%91%8B;IT+student+%7C+builder+%7C+debugger+of+life" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=ADD8E6&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+J+%F0%9F%91%8B;IT+student+%7C+builder+%7C+debugger+of+life" alt="Typing animation" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Miranda-SJ&style=flat-square&color=ADD8E6" alt="profile views" />
-</p>
 
 <p align="center">
 I'm a curious IT student who likes turning ideas into working solutions — whether that's automating a boring task, building an API, or getting way too invested in a UI detail nobody else will notice.
@@ -44,7 +40,7 @@ $ cat interests.txt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miranda-SJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miranda-SJ&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miranda-SJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 </p>
 
